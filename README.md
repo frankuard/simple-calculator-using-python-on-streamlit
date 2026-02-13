@@ -1,1 +1,1 @@
-# simple-calculator-using-python-on-streamlit
+# simple-calculator-using-python
