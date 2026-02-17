@@ -39,7 +39,7 @@ pip install streamlit
 
 2. Run the app:
 
-```bash
+
 streamlit run main.py
 
 ```
